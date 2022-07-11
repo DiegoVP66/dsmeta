@@ -22,4 +22,7 @@ a:visited {
 :root {
   --bg-color: #000;
   --main-color: #fff;
+
+  --notification-btn-border-color: #ff6b72;
+  --notification-btn-bg-color: rgba(255, 107, 114, 0.1);
 }
